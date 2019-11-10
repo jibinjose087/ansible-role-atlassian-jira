@@ -10,5 +10,5 @@ jira_proxy_host: ""
 jira_proxy_port: ""
 jira_proxy_https: false
 jira_context_path: ""
-#java_home: /usr/lib/jvm/java-8-openjdk-amd64
+java_home: /usr/lib/jvm/java-1.8.0-openjdk-amd64
 java_mysql_connector_version: 5.1.47
